@@ -1,0 +1,1172 @@
+index,class,score
+0,Less than HS,26.0
+1,Less than HS,43.8
+2,Less than HS,34.4
+3,Less than HS,76.2
+4,Less than HS,0.2
+5,Less than HS,32.5
+6,Less than HS,53.1
+7,Less than HS,29.6
+8,Less than HS,39.8
+9,Less than HS,43.1
+10,Less than HS,40.1
+11,Less than HS,
+12,Less than HS,30.7
+13,Less than HS,62.8
+14,Less than HS,56.0
+15,Less than HS,46.6
+16,Less than HS,56.4
+17,Less than HS,35.1
+18,Less than HS,28.9
+19,Less than HS,34.2
+20,Less than HS,62.2
+21,Less than HS,50.0
+22,Less than HS,41.8
+23,Less than HS,43.0
+24,Less than HS,61.6
+25,Less than HS,29.0
+26,Less than HS,32.3
+27,Less than HS,33.2
+28,Less than HS,56.9
+29,Less than HS,23.5
+30,Less than HS,39.1
+31,Less than HS,44.4
+32,Less than HS,32.9
+33,Less than HS,63.6
+34,Less than HS,41.3
+35,Less than HS,65.3
+36,Less than HS,46.2
+37,Less than HS,43.5
+38,Less than HS,49.3
+39,Less than HS,28.0
+40,Less than HS,1.8
+41,Less than HS,22.5
+42,Less than HS,44.9
+43,Less than HS,47.8
+44,Less than HS,58.8
+45,Less than HS,38.5
+46,Less than HS,38.6
+47,Less than HS,42.4
+48,Less than HS,34.5
+49,Less than HS,36.3
+50,Less than HS,86.1
+51,Less than HS,22.1
+52,Less than HS,22.2
+53,Less than HS,18.7
+54,Less than HS,25.3
+55,Less than HS,29.9
+56,Less than HS,37.3
+57,Less than HS,31.5
+58,Less than HS,14.2
+59,Less than HS,31.8
+60,Less than HS,33.2
+61,Less than HS,38.2
+62,Less than HS,41.9
+63,Less than HS,36.5
+64,Less than HS,30.1
+65,Less than HS,17.4
+66,Less than HS,49.0
+67,Less than HS,31.3
+68,Less than HS,30.6
+69,Less than HS,26.6
+70,Less than HS,34.1
+71,Less than HS,22.4
+72,Less than HS,45.4
+73,Less than HS,10.6
+74,Less than HS,38.0
+75,Less than HS,
+76,Less than HS,11.7
+77,Less than HS,18.8
+78,Less than HS,14.4
+79,Less than HS,47.4
+80,Less than HS,28.9
+81,Less than HS,27.5
+82,Less than HS,42.7
+83,Less than HS,29.1
+84,Less than HS,53.9
+85,Less than HS,61.0
+86,Less than HS,17.4
+87,Less than HS,26.8
+88,Less than HS,30.0
+89,Less than HS,48.2
+90,Less than HS,48.3
+91,Less than HS,35.3
+92,Less than HS,59.1
+93,Less than HS,60.2
+94,Less than HS,15.2
+95,Less than HS,22.3
+96,Less than HS,44.6
+97,Less than HS,41.4
+98,Less than HS,52.1
+99,Less than HS,14.4
+100,Less than HS,27.9
+101,Less than HS,55.2
+102,Less than HS,48.4
+103,Less than HS,38.7
+104,Less than HS,2.1
+105,Less than HS,37.1
+106,Less than HS,45.0
+107,Less than HS,53.6
+108,Less than HS,27.4
+109,Less than HS,11.7
+110,Less than HS,44.3
+111,Less than HS,39.6
+112,Less than HS,34.2
+113,Less than HS,43.8
+114,Less than HS,3.1
+115,Less than HS,39.3
+116,Less than HS,12.0
+117,Less than HS,33.5
+118,Less than HS,27.5
+119,Less than HS,8.2
+120,HS,59.9
+121,HS,45.1
+122,HS,31.5
+123,HS,60.9
+124,HS,35.4
+125,HS,30.9
+126,HS,19.1
+127,HS,15.7
+128,HS,54.0
+129,HS,32.4
+130,HS,36.3
+131,HS,45.9
+132,HS,62.2
+133,HS,51.8
+134,HS,15.7
+135,HS,42.9
+136,HS,4.4
+137,HS,53.9
+138,HS,27.4
+139,HS,33.4
+140,HS,26.0
+141,HS,54.3
+142,HS,47.4
+143,HS,33.0
+144,HS,30.6
+145,HS,51.8
+146,HS,41.2
+147,HS,34.2
+148,HS,45.5
+149,HS,53.9
+150,HS,38.4
+151,HS,62.5
+152,HS,55.9
+153,HS,47.3
+154,HS,21.7
+155,HS,53.3
+156,HS,35.5
+157,HS,17.7
+158,HS,48.2
+159,HS,43.1
+160,HS,36.9
+161,HS,64.0
+162,HS,9.6
+163,HS,26.1
+164,HS,53.1
+165,HS,51.3
+166,HS,51.4
+167,HS,34.4
+168,HS,43.8
+169,HS,23.6
+170,HS,59.0
+171,HS,
+172,HS,21.9
+173,HS,32.5
+174,HS,45.0
+175,HS,45.0
+176,HS,46.5
+177,HS,45.5
+178,HS,61.3
+179,HS,20.2
+180,HS,41.2
+181,HS,22.9
+182,HS,68.8
+183,HS,51.7
+184,HS,25.3
+185,HS,18.6
+186,HS,18.5
+187,HS,55.5
+188,HS,27.9
+189,HS,36.7
+190,HS,30.3
+191,HS,73.0
+192,HS,46.7
+193,HS,47.4
+194,HS,24.3
+195,HS,55.8
+196,HS,26.2
+197,HS,46.1
+198,HS,41.7
+199,HS,44.2
+200,HS,45.5
+201,HS,22.7
+202,HS,43.8
+203,HS,
+204,HS,61.8
+205,HS,54.9
+206,HS,38.4
+207,HS,48.6
+208,HS,33.3
+209,HS,35.5
+210,HS,34.0
+211,HS,46.2
+212,HS,43.2
+213,HS,52.5
+214,HS,38.9
+215,HS,18.2
+216,HS,30.4
+217,HS,44.5
+218,HS,41.2
+219,HS,33.8
+220,HS,26.8
+221,HS,50.4
+222,HS,36.9
+223,HS,44.1
+224,HS,26.8
+225,HS,57.7
+226,HS,63.4
+227,HS,29.8
+228,HS,45.2
+229,HS,52.9
+230,HS,36.6
+231,HS,67.4
+232,HS,27.7
+233,HS,18.5
+234,HS,42.3
+235,HS,58.3
+236,HS,61.8
+237,HS,32.1
+238,HS,21.5
+239,HS,68.3
+240,HS,45.1
+241,HS,28.3
+242,HS,34.5
+243,HS,55.7
+244,HS,55.5
+245,HS,40.7
+246,HS,29.3
+247,HS,13.5
+248,HS,64.1
+249,HS,54.1
+250,HS,49.0
+251,HS,34.3
+252,HS,37.6
+253,HS,22.0
+254,HS,59.2
+255,HS,3.5
+256,HS,37.6
+257,HS,37.0
+258,HS,58.4
+259,HS,60.2
+260,HS,20.8
+261,HS,37.8
+262,HS,51.4
+263,HS,23.5
+264,HS,74.0
+265,HS,51.0
+266,HS,29.6
+267,HS,
+268,HS,36.2
+269,HS,36.0
+270,HS,25.1
+271,HS,41.3
+272,HS,56.9
+273,HS,51.4
+274,HS,59.0
+275,HS,55.1
+276,HS,38.8
+277,HS,36.2
+278,HS,24.6
+279,HS,47.3
+280,HS,39.9
+281,HS,33.2
+282,HS,15.4
+283,HS,54.0
+284,HS,35.9
+285,HS,42.1
+286,HS,34.6
+287,HS,31.6
+288,HS,28.3
+289,HS,54.8
+290,HS,22.3
+291,HS,28.6
+292,HS,15.4
+293,HS,34.0
+294,HS,33.3
+295,HS,17.6
+296,HS,33.5
+297,HS,47.9
+298,HS,52.2
+299,HS,24.4
+300,HS,29.5
+301,HS,43.7
+302,HS,50.9
+303,HS,20.8
+304,HS,36.9
+305,HS,42.3
+306,HS,72.8
+307,HS,18.1
+308,HS,57.9
+309,HS,47.0
+310,HS,46.1
+311,HS,65.3
+312,HS,46.4
+313,HS,52.0
+314,HS,22.7
+315,HS,33.1
+316,HS,51.7
+317,HS,27.7
+318,HS,33.6
+319,HS,22.5
+320,HS,8.1
+321,HS,34.2
+322,HS,32.9
+323,HS,17.2
+324,HS,34.2
+325,HS,31.5
+326,HS,32.3
+327,HS,44.4
+328,HS,39.6
+329,HS,50.8
+330,HS,51.1
+331,HS,54.5
+332,HS,38.1
+333,HS,39.4
+334,HS,30.7
+335,HS,37.0
+336,HS,43.6
+337,HS,42.3
+338,HS,45.0
+339,HS,46.9
+340,HS,57.1
+341,HS,51.1
+342,HS,25.1
+343,HS,34.8
+344,HS,64.1
+345,HS,24.6
+346,HS,45.3
+347,HS,36.5
+348,HS,49.0
+349,HS,53.6
+350,HS,30.3
+351,HS,43.2
+352,HS,39.1
+353,HS,29.0
+354,HS,86.3
+355,HS,34.7
+356,HS,28.5
+357,HS,31.8
+358,HS,54.2
+359,HS,58.7
+360,HS,32.4
+361,HS,41.3
+362,HS,44.6
+363,HS,
+364,HS,48.3
+365,HS,40.0
+366,HS,38.6
+367,HS,60.9
+368,HS,33.4
+369,HS,71.5
+370,HS,56.4
+371,HS,37.0
+372,HS,45.8
+373,HS,22.0
+374,HS,19.9
+375,HS,51.4
+376,HS,40.0
+377,HS,38.5
+378,HS,46.2
+379,HS,30.9
+380,HS,26.1
+381,HS,37.0
+382,HS,23.9
+383,HS,49.9
+384,HS,51.8
+385,HS,79.7
+386,HS,31.8
+387,HS,47.4
+388,HS,19.4
+389,HS,51.1
+390,HS,13.5
+391,HS,23.8
+392,HS,49.7
+393,HS,48.0
+394,HS,55.5
+395,HS,9.9
+396,HS,45.2
+397,HS,31.7
+398,HS,43.8
+399,HS,30.5
+400,HS,38.8
+401,HS,48.9
+402,HS,40.0
+403,HS,34.4
+404,HS,50.1
+405,HS,42.8
+406,HS,52.1
+407,HS,60.4
+408,HS,4.5
+409,HS,39.2
+410,HS,30.2
+411,HS,48.8
+412,HS,26.3
+413,HS,60.0
+414,HS,50.7
+415,HS,37.7
+416,HS,27.1
+417,HS,55.0
+418,HS,41.9
+419,HS,3.1
+420,HS,37.2
+421,HS,40.7
+422,HS,49.5
+423,HS,49.9
+424,HS,45.9
+425,HS,18.9
+426,HS,66.4
+427,HS,39.1
+428,HS,19.4
+429,HS,40.7
+430,HS,55.0
+431,HS,41.5
+432,HS,41.1
+433,HS,50.8
+434,HS,32.9
+435,HS,11.1
+436,HS,48.8
+437,HS,39.5
+438,HS,56.5
+439,HS,17.4
+440,HS,40.4
+441,HS,24.4
+442,HS,43.9
+443,HS,5.0
+444,HS,15.2
+445,HS,34.0
+446,HS,47.8
+447,HS,12.7
+448,HS,33.0
+449,HS,46.1
+450,HS,77.5
+451,HS,33.7
+452,HS,53.3
+453,HS,17.2
+454,HS,63.0
+455,HS,57.0
+456,HS,25.9
+457,HS,6.6
+458,HS,21.8
+459,HS,27.7
+460,HS,46.8
+461,HS,50.7
+462,HS,27.8
+463,HS,22.8
+464,HS,19.5
+465,HS,39.5
+466,HS,23.7
+467,HS,16.3
+468,HS,53.0
+469,HS,13.9
+470,HS,27.9
+471,HS,42.7
+472,HS,34.8
+473,HS,28.3
+474,HS,34.7
+475,HS,52.6
+476,HS,42.2
+477,HS,39.9
+478,HS,33.3
+479,HS,44.2
+480,HS,41.3
+481,HS,42.0
+482,HS,65.7
+483,HS,43.1
+484,HS,51.1
+485,HS,43.6
+486,HS,15.9
+487,HS,4.8
+488,HS,45.3
+489,HS,46.1
+490,HS,40.6
+491,HS,43.6
+492,HS,38.6
+493,HS,11.9
+494,HS,41.7
+495,HS,36.0
+496,HS,33.1
+497,HS,20.7
+498,HS,84.1
+499,HS,32.8
+500,HS,25.6
+501,HS,30.6
+502,HS,48.9
+503,HS,25.4
+504,HS,37.7
+505,HS,36.2
+506,HS,29.0
+507,HS,25.2
+508,HS,55.0
+509,HS,33.0
+510,HS,32.9
+511,HS,60.9
+512,HS,42.8
+513,HS,48.9
+514,HS,54.6
+515,HS,53.6
+516,HS,40.9
+517,HS,82.5
+518,HS,65.7
+519,HS,31.0
+520,HS,59.3
+521,HS,28.1
+522,HS,53.4
+523,HS,
+524,HS,36.2
+525,HS,50.5
+526,HS,29.9
+527,HS,51.6
+528,HS,55.8
+529,HS,40.3
+530,HS,17.4
+531,HS,29.0
+532,HS,46.3
+533,HS,39.5
+534,HS,38.2
+535,HS,46.9
+536,HS,53.1
+537,HS,27.7
+538,HS,54.0
+539,HS,10.3
+540,HS,27.5
+541,HS,39.0
+542,HS,39.5
+543,HS,26.6
+544,HS,35.0
+545,HS,50.9
+546,HS,14.6
+547,HS,20.4
+548,HS,50.3
+549,HS,48.7
+550,HS,46.1
+551,HS,42.3
+552,HS,26.8
+553,HS,21.9
+554,HS,49.5
+555,HS,48.0
+556,HS,13.4
+557,HS,9.3
+558,HS,69.6
+559,HS,23.1
+560,HS,65.2
+561,HS,40.8
+562,HS,59.6
+563,HS,46.0
+564,HS,47.4
+565,HS,21.6
+566,HS,50.0
+567,HS,46.6
+568,HS,54.3
+569,HS,36.0
+570,HS,46.5
+571,HS,20.7
+572,HS,63.9
+573,HS,40.0
+574,HS,52.4
+575,HS,65.7
+576,HS,48.3
+577,HS,41.1
+578,HS,67.2
+579,HS,62.3
+580,HS,26.5
+581,HS,33.6
+582,HS,38.0
+583,HS,38.9
+584,HS,80.4
+585,HS,29.5
+586,HS,33.2
+587,HS,45.2
+588,HS,43.4
+589,HS,69.8
+590,HS,52.8
+591,HS,46.6
+592,HS,26.9
+593,HS,15.8
+594,HS,14.1
+595,HS,27.1
+596,HS,56.5
+597,HS,38.5
+598,HS,42.5
+599,HS,44.4
+600,HS,29.5
+601,HS,36.7
+602,HS,30.5
+603,HS,61.1
+604,HS,50.4
+605,HS,34.0
+606,HS,41.0
+607,HS,43.2
+608,HS,56.6
+609,HS,18.5
+610,HS,34.5
+611,HS,34.1
+612,HS,40.0
+613,HS,24.4
+614,HS,43.4
+615,HS,22.0
+616,HS,72.8
+617,HS,8.0
+618,HS,52.9
+619,HS,55.6
+620,HS,55.0
+621,HS,53.4
+622,HS,37.1
+623,HS,70.5
+624,HS,34.2
+625,HS,51.3
+626,HS,19.0
+627,HS,28.3
+628,HS,56.9
+629,HS,21.2
+630,HS,41.0
+631,HS,22.5
+632,HS,28.9
+633,HS,6.1
+634,HS,27.2
+635,HS,27.4
+636,HS,51.3
+637,HS,58.5
+638,HS,37.4
+639,HS,50.9
+640,HS,27.9
+641,HS,43.6
+642,HS,51.9
+643,HS,49.1
+644,HS,38.1
+645,HS,54.4
+646,HS,58.2
+647,HS,60.2
+648,HS,36.1
+649,HS,27.0
+650,HS,35.3
+651,HS,40.9
+652,HS,52.2
+653,HS,66.4
+654,HS,56.7
+655,HS,51.8
+656,HS,25.1
+657,HS,52.3
+658,HS,52.8
+659,HS,38.4
+660,HS,22.0
+661,HS,57.3
+662,HS,41.6
+663,HS,44.4
+664,HS,31.5
+665,HS,32.0
+666,Jr Coll,27.0
+667,Jr Coll,34.3
+668,Jr Coll,28.3
+669,Jr Coll,49.1
+670,Jr Coll,47.4
+671,Jr Coll,38.4
+672,Jr Coll,38.9
+673,Jr Coll,63.6
+674,Jr Coll,34.2
+675,Jr Coll,58.1
+676,Jr Coll,29.1
+677,Jr Coll,12.4
+678,Jr Coll,10.2
+679,Jr Coll,24.5
+680,Jr Coll,14.3
+681,Jr Coll,18.1
+682,Jr Coll,15.6
+683,Jr Coll,42.0
+684,Jr Coll,52.2
+685,Jr Coll,25.2
+686,Jr Coll,8.2
+687,Jr Coll,7.4
+688,Jr Coll,19.9
+689,Jr Coll,61.0
+690,Jr Coll,64.6
+691,Jr Coll,48.3
+692,Jr Coll,5.8
+693,Jr Coll,13.0
+694,Jr Coll,57.0
+695,Jr Coll,50.9
+696,Jr Coll,72.3
+697,Jr Coll,45.7
+698,Jr Coll,34.5
+699,Jr Coll,42.9
+700,Jr Coll,45.7
+701,Jr Coll,57.9
+702,Jr Coll,26.8
+703,Jr Coll,34.2
+704,Jr Coll,50.6
+705,Jr Coll,35.9
+706,Jr Coll,53.9
+707,Jr Coll,45.8
+708,Jr Coll,41.1
+709,Jr Coll,4.7
+710,Jr Coll,51.8
+711,Jr Coll,40.5
+712,Jr Coll,27.0
+713,Jr Coll,17.2
+714,Jr Coll,56.3
+715,Jr Coll,
+716,Jr Coll,35.6
+717,Jr Coll,67.1
+718,Jr Coll,31.2
+719,Jr Coll,86.4
+720,Jr Coll,24.0
+721,Jr Coll,33.1
+722,Jr Coll,78.7
+723,Jr Coll,61.1
+724,Jr Coll,61.2
+725,Jr Coll,29.5
+726,Jr Coll,52.2
+727,Jr Coll,44.4
+728,Jr Coll,25.7
+729,Jr Coll,38.0
+730,Jr Coll,43.2
+731,Jr Coll,44.6
+732,Jr Coll,24.1
+733,Jr Coll,52.4
+734,Jr Coll,11.9
+735,Jr Coll,59.7
+736,Jr Coll,52.4
+737,Jr Coll,36.5
+738,Jr Coll,60.4
+739,Jr Coll,45.3
+740,Jr Coll,48.3
+741,Jr Coll,77.7
+742,Jr Coll,30.9
+743,Jr Coll,13.7
+744,Jr Coll,57.8
+745,Jr Coll,8.4
+746,Jr Coll,45.4
+747,Jr Coll,67.9
+748,Jr Coll,34.7
+749,Jr Coll,64.1
+750,Jr Coll,24.9
+751,Jr Coll,46.9
+752,Jr Coll,63.5
+753,Jr Coll,57.3
+754,Jr Coll,34.0
+755,Jr Coll,68.8
+756,Jr Coll,25.3
+757,Jr Coll,20.0
+758,Jr Coll,57.1
+759,Jr Coll,18.8
+760,Jr Coll,59.2
+761,Jr Coll,67.7
+762,Jr Coll,61.5
+763,Bachelor's,42.2
+764,Bachelor's,60.4
+765,Bachelor's,29.3
+766,Bachelor's,55.1
+767,Bachelor's,39.4
+768,Bachelor's,44.4
+769,Bachelor's,42.4
+770,Bachelor's,28.1
+771,Bachelor's,66.9
+772,Bachelor's,65.9
+773,Bachelor's,23.2
+774,Bachelor's,25.8
+775,Bachelor's,43.7
+776,Bachelor's,45.2
+777,Bachelor's,34.0
+778,Bachelor's,51.1
+779,Bachelor's,41.6
+780,Bachelor's,63.2
+781,Bachelor's,32.8
+782,Bachelor's,37.5
+783,Bachelor's,40.2
+784,Bachelor's,18.3
+785,Bachelor's,37.2
+786,Bachelor's,33.5
+787,Bachelor's,35.3
+788,Bachelor's,25.5
+789,Bachelor's,55.0
+790,Bachelor's,38.8
+791,Bachelor's,44.1
+792,Bachelor's,73.5
+793,Bachelor's,22.0
+794,Bachelor's,26.2
+795,Bachelor's,64.1
+796,Bachelor's,35.8
+797,Bachelor's,47.1
+798,Bachelor's,57.6
+799,Bachelor's,40.7
+800,Bachelor's,39.0
+801,Bachelor's,43.5
+802,Bachelor's,34.5
+803,Bachelor's,55.1
+804,Bachelor's,30.1
+805,Bachelor's,45.7
+806,Bachelor's,46.5
+807,Bachelor's,54.9
+808,Bachelor's,43.9
+809,Bachelor's,58.8
+810,Bachelor's,32.9
+811,Bachelor's,36.3
+812,Bachelor's,43.1
+813,Bachelor's,43.1
+814,Bachelor's,40.1
+815,Bachelor's,45.8
+816,Bachelor's,27.9
+817,Bachelor's,23.0
+818,Bachelor's,31.0
+819,Bachelor's,83.9
+820,Bachelor's,47.5
+821,Bachelor's,33.8
+822,Bachelor's,55.2
+823,Bachelor's,40.9
+824,Bachelor's,34.9
+825,Bachelor's,56.2
+826,Bachelor's,43.8
+827,Bachelor's,58.1
+828,Bachelor's,56.9
+829,Bachelor's,11.2
+830,Bachelor's,53.4
+831,Bachelor's,61.5
+832,Bachelor's,36.4
+833,Bachelor's,53.3
+834,Bachelor's,43.9
+835,Bachelor's,44.1
+836,Bachelor's,29.9
+837,Bachelor's,7.8
+838,Bachelor's,45.7
+839,Bachelor's,42.7
+840,Bachelor's,48.0
+841,Bachelor's,48.0
+842,Bachelor's,31.9
+843,Bachelor's,40.6
+844,Bachelor's,53.0
+845,Bachelor's,38.7
+846,Bachelor's,60.3
+847,Bachelor's,24.5
+848,Bachelor's,39.7
+849,Bachelor's,52.1
+850,Bachelor's,52.3
+851,Bachelor's,33.1
+852,Bachelor's,33.8
+853,Bachelor's,46.6
+854,Bachelor's,43.6
+855,Bachelor's,52.1
+856,Bachelor's,21.0
+857,Bachelor's,55.6
+858,Bachelor's,49.1
+859,Bachelor's,34.9
+860,Bachelor's,47.1
+861,Bachelor's,45.4
+862,Bachelor's,23.4
+863,Bachelor's,29.4
+864,Bachelor's,43.0
+865,Bachelor's,38.4
+866,Bachelor's,51.9
+867,Bachelor's,28.6
+868,Bachelor's,51.5
+869,Bachelor's,36.6
+870,Bachelor's,62.3
+871,Bachelor's,34.1
+872,Bachelor's,66.1
+873,Bachelor's,45.8
+874,Bachelor's,44.5
+875,Bachelor's,29.7
+876,Bachelor's,18.0
+877,Bachelor's,36.9
+878,Bachelor's,62.7
+879,Bachelor's,29.4
+880,Bachelor's,39.3
+881,Bachelor's,32.7
+882,Bachelor's,34.7
+883,Bachelor's,33.5
+884,Bachelor's,45.2
+885,Bachelor's,54.0
+886,Bachelor's,49.0
+887,Bachelor's,37.2
+888,Bachelor's,26.2
+889,Bachelor's,73.5
+890,Bachelor's,44.5
+891,Bachelor's,38.2
+892,Bachelor's,46.1
+893,Bachelor's,59.6
+894,Bachelor's,19.9
+895,Bachelor's,65.4
+896,Bachelor's,41.1
+897,Bachelor's,51.0
+898,Bachelor's,47.7
+899,Bachelor's,56.6
+900,Bachelor's,50.0
+901,Bachelor's,55.0
+902,Bachelor's,33.4
+903,Bachelor's,41.8
+904,Bachelor's,40.1
+905,Bachelor's,53.8
+906,Bachelor's,65.2
+907,Bachelor's,45.2
+908,Bachelor's,54.3
+909,Bachelor's,50.7
+910,Bachelor's,44.3
+911,Bachelor's,62.0
+912,Bachelor's,42.5
+913,Bachelor's,38.8
+914,Bachelor's,30.3
+915,Bachelor's,26.9
+916,Bachelor's,45.9
+917,Bachelor's,25.9
+918,Bachelor's,44.4
+919,Bachelor's,15.1
+920,Bachelor's,44.7
+921,Bachelor's,29.4
+922,Bachelor's,33.9
+923,Bachelor's,43.8
+924,Bachelor's,59.0
+925,Bachelor's,50.7
+926,Bachelor's,65.4
+927,Bachelor's,37.1
+928,Bachelor's,56.5
+929,Bachelor's,46.2
+930,Bachelor's,65.8
+931,Bachelor's,45.1
+932,Bachelor's,38.2
+933,Bachelor's,21.0
+934,Bachelor's,41.8
+935,Bachelor's,43.8
+936,Bachelor's,46.8
+937,Bachelor's,31.2
+938,Bachelor's,18.9
+939,Bachelor's,
+940,Bachelor's,49.9
+941,Bachelor's,23.3
+942,Bachelor's,37.4
+943,Bachelor's,43.7
+944,Bachelor's,53.5
+945,Bachelor's,30.7
+946,Bachelor's,31.9
+947,Bachelor's,54.6
+948,Bachelor's,55.2
+949,Bachelor's,45.5
+950,Bachelor's,36.8
+951,Bachelor's,31.7
+952,Bachelor's,36.6
+953,Bachelor's,63.8
+954,Bachelor's,28.7
+955,Bachelor's,14.3
+956,Bachelor's,31.0
+957,Bachelor's,43.9
+958,Bachelor's,56.3
+959,Bachelor's,34.5
+960,Bachelor's,46.1
+961,Bachelor's,31.8
+962,Bachelor's,18.3
+963,Bachelor's,22.6
+964,Bachelor's,56.4
+965,Bachelor's,49.8
+966,Bachelor's,34.2
+967,Bachelor's,47.1
+968,Bachelor's,16.0
+969,Bachelor's,23.5
+970,Bachelor's,16.3
+971,Bachelor's,49.4
+972,Bachelor's,41.0
+973,Bachelor's,35.2
+974,Bachelor's,65.4
+975,Bachelor's,46.8
+976,Bachelor's,34.8
+977,Bachelor's,0.5
+978,Bachelor's,52.6
+979,Bachelor's,55.5
+980,Bachelor's,48.7
+981,Bachelor's,56.5
+982,Bachelor's,26.4
+983,Bachelor's,46.4
+984,Bachelor's,31.1
+985,Bachelor's,56.1
+986,Bachelor's,15.4
+987,Bachelor's,26.0
+988,Bachelor's,33.4
+989,Bachelor's,44.4
+990,Bachelor's,55.9
+991,Bachelor's,55.1
+992,Bachelor's,66.3
+993,Bachelor's,52.1
+994,Bachelor's,75.2
+995,Bachelor's,29.3
+996,Bachelor's,34.9
+997,Bachelor's,20.4
+998,Bachelor's,50.8
+999,Bachelor's,36.0
+1000,Bachelor's,64.0
+1001,Bachelor's,45.5
+1002,Bachelor's,66.5
+1003,Bachelor's,38.2
+1004,Bachelor's,31.2
+1005,Bachelor's,49.7
+1006,Bachelor's,22.5
+1007,Bachelor's,50.4
+1008,Bachelor's,33.8
+1009,Bachelor's,40.7
+1010,Bachelor's,49.6
+1011,Bachelor's,33.2
+1012,Bachelor's,39.9
+1013,Bachelor's,30.1
+1014,Bachelor's,42.7
+1015,Bachelor's,24.5
+1016,Graduate,36.3
+1017,Graduate,26.1
+1018,Graduate,35.7
+1019,Graduate,73.3
+1020,Graduate,32.6
+1021,Graduate,49.9
+1022,Graduate,31.2
+1023,Graduate,34.1
+1024,Graduate,80.3
+1025,Graduate,56.2
+1026,Graduate,28.1
+1027,Graduate,54.2
+1028,Graduate,39.4
+1029,Graduate,24.0
+1030,Graduate,42.3
+1031,Graduate,35.6
+1032,Graduate,62.0
+1033,Graduate,32.9
+1034,Graduate,51.5
+1035,Graduate,22.3
+1036,Graduate,57.2
+1037,Graduate,47.1
+1038,Graduate,46.6
+1039,Graduate,32.3
+1040,Graduate,13.0
+1041,Graduate,19.4
+1042,Graduate,68.0
+1043,Graduate,61.3
+1044,Graduate,66.3
+1045,Graduate,41.0
+1046,Graduate,56.5
+1047,Graduate,48.4
+1048,Graduate,47.1
+1049,Graduate,26.6
+1050,Graduate,56.7
+1051,Graduate,54.6
+1052,Graduate,49.6
+1053,Graduate,35.4
+1054,Graduate,10.1
+1055,Graduate,32.5
+1056,Graduate,48.8
+1057,Graduate,28.6
+1058,Graduate,46.6
+1059,Graduate,38.7
+1060,Graduate,33.3
+1061,Graduate,49.5
+1062,Graduate,43.2
+1063,Graduate,57.1
+1064,Graduate,45.2
+1065,Graduate,32.2
+1066,Graduate,25.0
+1067,Graduate,
+1068,Graduate,52.5
+1069,Graduate,54.0
+1070,Graduate,48.4
+1071,Graduate,26.8
+1072,Graduate,39.3
+1073,Graduate,26.4
+1074,Graduate,46.7
+1075,Graduate,40.1
+1076,Graduate,57.8
+1077,Graduate,38.5
+1078,Graduate,50.7
+1079,Graduate,47.1
+1080,Graduate,64.6
+1081,Graduate,47.3
+1082,Graduate,44.9
+1083,Graduate,49.2
+1084,Graduate,69.3
+1085,Graduate,48.6
+1086,Graduate,30.0
+1087,Graduate,47.0
+1088,Graduate,28.3
+1089,Graduate,25.6
+1090,Graduate,47.6
+1091,Graduate,81.0
+1092,Graduate,43.2
+1093,Graduate,33.9
+1094,Graduate,22.8
+1095,Graduate,46.2
+1096,Graduate,43.5
+1097,Graduate,27.7
+1098,Graduate,34.5
+1099,Graduate,58.0
+1100,Graduate,43.2
+1101,Graduate,54.3
+1102,Graduate,49.7
+1103,Graduate,34.5
+1104,Graduate,36.6
+1105,Graduate,43.4
+1106,Graduate,45.2
+1107,Graduate,53.9
+1108,Graduate,61.5
+1109,Graduate,54.3
+1110,Graduate,52.5
+1111,Graduate,22.3
+1112,Graduate,25.6
+1113,Graduate,33.5
+1114,Graduate,56.3
+1115,Graduate,46.8
+1116,Graduate,25.6
+1117,Graduate,33.1
+1118,Graduate,16.5
+1119,Graduate,19.0
+1120,Graduate,39.2
+1121,Graduate,32.9
+1122,Graduate,71.6
+1123,Graduate,24.2
+1124,Graduate,31.1
+1125,Graduate,26.0
+1126,Graduate,30.1
+1127,Graduate,59.1
+1128,Graduate,49.1
+1129,Graduate,29.2
+1130,Graduate,61.3
+1131,Graduate,73.5
+1132,Graduate,67.8
+1133,Graduate,35.4
+1134,Graduate,1.8
+1135,Graduate,56.5
+1136,Graduate,44.8
+1137,Graduate,36.7
+1138,Graduate,50.4
+1139,Graduate,54.7
+1140,Graduate,42.0
+1141,Graduate,60.8
+1142,Graduate,38.6
+1143,Graduate,35.5
+1144,Graduate,19.3
+1145,Graduate,64.3
+1146,Graduate,60.1
+1147,Graduate,54.2
+1148,Graduate,69.2
+1149,Graduate,43.3
+1150,Graduate,44.8
+1151,Graduate,20.6
+1152,Graduate,47.2
+1153,Graduate,29.6
+1154,Graduate,59.7
+1155,Graduate,26.2
+1156,Graduate,63.4
+1157,Graduate,74.9
+1158,Graduate,52.0
+1159,Graduate,39.7
+1160,Graduate,49.1
+1161,Graduate,34.1
+1162,Graduate,63.3
+1163,Graduate,
+1164,Graduate,18.1
+1165,Graduate,27.4
+1166,Graduate,52.7
+1167,Graduate,59.8
+1168,Graduate,54.1
+1169,Graduate,39.9
+1170,Graduate,58.2
